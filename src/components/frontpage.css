@@ -1,0 +1,35 @@
+/* .container{
+    background-color: rgb(247, 248, 249);
+}
+.side-heading{
+    background-color: rgb(0, 111, 207);
+    color: white;
+    
+}
+.firstheading{
+    color: rgb(48, 101, 181);
+} */
+.first_col{
+    background-color: rgb(247, 248, 259);
+}
+
+.side-heading{
+    display: inline-block;
+    background-color:  rgb(0, 111, 207);
+    color: white;
+    width: 200px ;
+    height: 30px ;
+}
+.ins {
+    border: 3px solid rgb(201, 223, 245);
+    background-color: rgb(224, 242, 250);
+}
+.buttons{
+    width: 250px;
+    height: 50px;
+}
+.button1{
+    width: 250px;
+    height: 50px;
+    color: rgb(51, 140, 213);
+}
